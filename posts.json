@@ -1,0 +1,32 @@
+{
+  "posts": {
+    "attach-locations-to-scenes": {
+      "name": "Attach locations to scenes",
+      "summary": "Create and attach locations to scenes. Display scene-location distribution, similarly to characters.",
+      "votes": 1,
+      "categories": [
+        "scene",
+        "milieu"
+      ]
+    },
+    "character-agency-editor": {
+      "name": "Character agency editor",
+      "summary": "Track character agency, changes, emotions, conflicts, and motivations per scene",
+      "votes": 5,
+      "categories": [
+        "scene"
+      ]
+    }
+  },
+  "categories": {
+    "character": {
+      "color": "#0052CC"
+    },
+    "scene": {
+      "color": "#691E56"
+    },
+    "milieu": {
+      "color": "#678A6B"
+    }
+  }
+}
