@@ -1,1 +1,1 @@
-# qt library
+# Plotlyst external resources
