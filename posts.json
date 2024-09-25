@@ -41,21 +41,18 @@
       "color_hexa": "#588157"
     }
   ],
-  "tags": [
-    {
-      "text": "character",
+  "tags": {
+    "character": {
       "icon": "fa5s.user",
       "icon_color": "darkBlue"
     },
-    {
-      "text": "milieu",
+    "milieu": {
       "icon": "mdi.globe-model",
       "icon_color": "#2d6a4f"
     },
-    {
-      "text": "scene",
+    "scene": {
       "icon": "mdi.movie-open",
       "icon_color": "#4B0763"
     }
-  ]
+  }
 }
