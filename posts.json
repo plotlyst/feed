@@ -8,7 +8,9 @@
       "tags": [
         "scene",
         "milieu"
-      ]
+      ],
+      "web_link": "https://plotlyst.featurebase.app/p/attach-locations-to-scenes",
+      "version": "Free"
     },
     {
       "title": "Character agency editor",
@@ -17,21 +19,26 @@
       "votes": 5,
       "tags": [
         "scene"
-      ]
+      ],
+      "web_link": "https://plotlyst.featurebase.app/p/character-agency-editor",
+      "version": "Plus"
     }
   ],
   "statuses": [
     {
       "text": "Planned",
-      "id": "dcce7399-a45c-4ff4-a699-03fd01e3cb08"
+      "id": "dcce7399-a45c-4ff4-a699-03fd01e3cb08",
+      "color_hexa": "#0077b6"
     },
     {
       "text": "In progress",
-      "id": "c36602fe-d08b-4554-8526-b3f034131c39"
+      "id": "c36602fe-d08b-4554-8526-b3f034131c39",
+      "color_hexa": "#9f86c0"
     },
     {
       "text": "Done",
-      "id": "cfa85d26-524c-4364-b089-691000094b52"
+      "id": "cfa85d26-524c-4364-b089-691000094b52",
+      "color_hexa": "#588157"
     }
   ]
 }
