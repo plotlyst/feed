@@ -43,14 +43,17 @@
   ],
   "tags": {
     "character": {
+      "text": "Character related tasks",
       "icon": "fa5s.user",
       "icon_color": "darkBlue"
     },
     "milieu": {
+      "text": "Milieu and worldbuilding related tasks",
       "icon": "mdi.globe-model",
       "icon_color": "#2d6a4f"
     },
     "scene": {
+      "text": "Scene related tasks",
       "icon": "mdi.movie-open",
       "icon_color": "#4B0763"
     }
