@@ -40,5 +40,22 @@
       "id": "cfa85d26-524c-4364-b089-691000094b52",
       "color_hexa": "#588157"
     }
+  ],
+  "tags": [
+    {
+      "text": "character",
+      "icon": "fa5s.user",
+      "icon_color": "darkBlue"
+    },
+    {
+      "text": "milieu",
+      "icon": "mdi.globe-model",
+      "icon_color": "#2d6a4f"
+    },
+    {
+      "text": "scene",
+      "icon": "mdi.movie-open",
+      "icon_color": "#4B0763"
+    }
   ]
 }
