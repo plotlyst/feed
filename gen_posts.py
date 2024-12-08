@@ -48,7 +48,7 @@ def parse_tags_and_clean_summary(content):
 
 tasks = []
 
-with open('posts-input.csv', newline='', encoding='utf-8') as csvfile:
+with open('/home/zkovari/Downloads/plotlyst-fb.csv', newline='', encoding='utf-8') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
         task_tags, cleaned_summary = parse_tags_and_clean_summary(row["Content"])
