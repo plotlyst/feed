@@ -20,7 +20,7 @@ class Tag:
 
 statuses = [
     Status("Planned", "dcce7399-a45c-4ff4-a699-03fd01e3cb08", "#0077b6"),
-    Status("In progress", "c36602fe-d08b-4554-8526-b3f034131c39", "#9f86c0"),
+    Status("In Progress", "c36602fe-d08b-4554-8526-b3f034131c39", "#9f86c0"),
     Status("Done", "cfa85d26-524c-4364-b089-691000094b52", "#588157")
 ]
 
