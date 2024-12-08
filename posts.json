@@ -1,6 +1,17 @@
 {
   "tasks": [
     {
+      "title": "Extend character traits",
+      "status_ref": "dcce7399-a45c-4ff4-a699-03fd01e3cb08",
+      "summary": "Some commonly known traits are still missing, e.g., stubborn. Let’s review all the current traits and update them if necessary.",
+      "votes": 1,
+      "tags": [
+        "character"
+      ],
+      "web_link": "https://plotlyst.featurebase.app/p/extend-character-traits",
+      "version": "Free"
+    },
+    {
       "title": "Attach locations to scenes",
       "status_ref": "dcce7399-a45c-4ff4-a699-03fd01e3cb08",
       "summary": "Create and attach locations to scenes. Display scene-location distribution, similarly to characters.",
@@ -14,7 +25,7 @@
     },
     {
       "title": "Character agency editor",
-      "status_ref": "dcce7399-a45c-4ff4-a699-03fd01e3cb08",
+      "status_ref": "c36602fe-d08b-4554-8526-b3f034131c39",
       "summary": "Track character agency, changes, emotions, conflicts, and motivations per scenes.",
       "votes": 5,
       "tags": [
@@ -31,7 +42,7 @@
       "color_hexa": "#0077b6"
     },
     {
-      "text": "In progress",
+      "text": "In Progress",
       "id": "c36602fe-d08b-4554-8526-b3f034131c39",
       "color_hexa": "#9f86c0"
     },
