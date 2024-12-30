@@ -25,9 +25,10 @@ statuses = [
 ]
 
 tags = {
-    "character": Tag("Character related tasks", "fa5s.user", "darkBlue"),
-    "milieu": Tag("Milieu and worldbuilding related tasks", "mdi.globe-model", "#2d6a4f"),
-    "scene": Tag("Scene related tasks", "mdi.movie-open", "#4B0763")
+    "character": Tag("Character related tasks", "fa5s.user", "#4B0763"),
+    "milieu": Tag("Milieu and worldbuilding related tasks", "mdi.globe-model", "#4B0763"),
+    "scene": Tag("Scene related tasks", "mdi.movie-open", "#4B0763"),
+    "series": Tag("Series related tasks", "ph.books", "#4B0763")
 }
 
 
