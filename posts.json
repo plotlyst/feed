@@ -1,8 +1,19 @@
 {
   "tasks": [
     {
+      "title": "Series Feature",
+      "status_ref": "c36602fe-d08b-4554-8526-b3f034131c39",
+      "summary": "Create a series feature where books can be grouped under a series title and characters, locations, etc. can be copied over, selected, or tagged without having to re-create them from scratch for each book.",
+      "votes": 2,
+      "tags": [
+        "series"
+      ],
+      "web_link": "https://plotlyst.featurebase.app/p/series-feature",
+      "version": "Free"
+    },
+    {
       "title": "Extend character traits",
-      "status_ref": "dcce7399-a45c-4ff4-a699-03fd01e3cb08",
+      "status_ref": "cfa85d26-524c-4364-b089-691000094b52",
       "summary": "Some commonly known traits are still missing, e.g., stubborn. Let’s review all the current traits and update them if necessary.",
       "votes": 1,
       "tags": [
@@ -25,9 +36,9 @@
     },
     {
       "title": "Character agency editor",
-      "status_ref": "c36602fe-d08b-4554-8526-b3f034131c39",
+      "status_ref": "dcce7399-a45c-4ff4-a699-03fd01e3cb08",
       "summary": "Track character agency, changes, emotions, conflicts, and motivations per scenes.",
-      "votes": 5,
+      "votes": 4,
       "tags": [
         "scene"
       ],
@@ -47,7 +58,7 @@
       "color_hexa": "#9f86c0"
     },
     {
-      "text": "Done",
+      "text": "Completed",
       "id": "cfa85d26-524c-4364-b089-691000094b52",
       "color_hexa": "#588157"
     }
@@ -56,16 +67,21 @@
     "character": {
       "text": "Character related tasks",
       "icon": "fa5s.user",
-      "icon_color": "darkBlue"
+      "icon_color": "#4B0763"
     },
     "milieu": {
       "text": "Milieu and worldbuilding related tasks",
       "icon": "mdi.globe-model",
-      "icon_color": "#2d6a4f"
+      "icon_color": "#4B0763"
     },
     "scene": {
       "text": "Scene related tasks",
       "icon": "mdi.movie-open",
+      "icon_color": "#4B0763"
+    },
+    "series": {
+      "text": "Series related tasks",
+      "icon": "ph.books",
       "icon_color": "#4B0763"
     }
   }
