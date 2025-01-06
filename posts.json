@@ -17,7 +17,7 @@
       "summary": "In the icon selector widget, let’s have a ‘Recently used’ perspective that displays the recently selected icons, so we can quickly select them again.",
       "votes": 1,
       "tags": [
-        "QOL"
+        "quality of life"
       ],
       "web_link": "https://plotlyst.featurebase.app/p/recently-used-icons-in-icon-selector",
       "version": "Free"
@@ -50,7 +50,7 @@
       "summary": "Add a KB panel to the Home view and reference it from the Novel’s view as well.",
       "votes": 1,
       "tags": [
-        "kb"
+        "knowledge base"
       ],
       "web_link": "https://plotlyst.featurebase.app/p/add-a-knowledge-base-panel",
       "version": "Free"
@@ -149,12 +149,12 @@
       "icon": "fa5s.palette",
       "icon_color": "#4B0763"
     },
-    "QOL": {
+    "quality of life": {
       "text": "Quality of life improvements",
       "icon": "fa5s.hand-holding-heart",
       "icon_color": "#4B0763"
     },
-    "kb": {
+    "knowledge base": {
       "text": "Knowledge base and guides",
       "icon": "mdi6.school-outline",
       "icon_color": "#4B0763"

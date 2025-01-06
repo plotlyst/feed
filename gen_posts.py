@@ -31,8 +31,8 @@ tags = {
     "milieu": Tag("Milieu and world-building related tasks", "mdi.globe-model"),
     "series": Tag("Series related tasks", "ph.books"),
     "appearance": Tag("General application appearance and style", "fa5s.palette"),
-    "QOL": Tag("Quality of life improvements", "fa5s.hand-holding-heart"),
-    "kb": Tag("Knowledge base and guides", "mdi6.school-outline"),
+    "quality of life": Tag("Quality of life improvements", "fa5s.hand-holding-heart"),
+    "knowledge base": Tag("Knowledge base and guides", "mdi6.school-outline"),
 }
 
 
@@ -48,7 +48,7 @@ def parse_tags_and_clean_summary(content):
     tag_matches = re.findall(pattern, content)
     cleaned_content = re.sub(pattern, '', content).strip()
     cleaned_content = cleaned_content.rstrip('\n')  # Remove trailing newlines from the summary
-    return [tag for tag in tag_matches if tag in tags], cleaned_content
+    return [tag.replace('_', ' ') for tag in tag_matches if tag.replace('_', ' ') in tags], cleaned_content
 
 
 tasks = []
