@@ -52,6 +52,8 @@ tasks = []
 with open('/home/zkovari/Downloads/plotlyst-fb.csv', newline='', encoding='utf-8') as csvfile:
     reader = csv.DictReader(csvfile)
     for row in reader:
+        if row["Status"] == 'In Review':
+            continue
         task_tags, cleaned_summary = parse_tags_and_clean_summary(row["Content"])
         task = {
             "title": row["Title"],
