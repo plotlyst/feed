@@ -15,7 +15,7 @@ class Status:
 class Tag:
     text: str
     icon: str
-    icon_color: str
+    icon_color: str = "#4B0763"
 
 
 statuses = [
@@ -25,10 +25,14 @@ statuses = [
 ]
 
 tags = {
-    "character": Tag("Character related tasks", "fa5s.user", "#4B0763"),
-    "milieu": Tag("Milieu and worldbuilding related tasks", "mdi.globe-model", "#4B0763"),
-    "scene": Tag("Scene related tasks", "mdi.movie-open", "#4B0763"),
-    "series": Tag("Series related tasks", "ph.books", "#4B0763")
+    "character": Tag("Character related tasks", "fa5s.user"),
+    "scene": Tag("Scene related tasks", "mdi.movie-open"),
+    "structure": Tag("Story structure related tasks", "mdi6.bridge"),
+    "milieu": Tag("Milieu and world-building related tasks", "mdi.globe-model"),
+    "series": Tag("Series related tasks", "ph.books"),
+    "appearance": Tag("General application appearance and style", "fa5s.palette"),
+    "QOL": Tag("Quality of life improvements", "fa5s.hand-holding-heart"),
+    "kb": Tag("Knowledge base and guides", "mdi6.school-outline"),
 }
 
 
