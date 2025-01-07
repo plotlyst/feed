@@ -1,6 +1,18 @@
 {
   "tasks": [
     {
+      "title": "Detach panels into separate windows",
+      "status_ref": "dcce7399-a45c-4ff4-a699-03fd01e3cb08",
+      "summary": "Allow detaching any existing panels (character, scene, documents, etc.) into a separate window, therefore using the app in a multi-window layout.",
+      "votes": 1,
+      "tags": [
+        "appearance",
+        "quality of life"
+      ],
+      "web_link": "https://plotlyst.featurebase.app/p/detach-panels-into-separate-windows",
+      "version": "Free"
+    },
+    {
       "title": "Support dark mode",
       "status_ref": "dcce7399-a45c-4ff4-a699-03fd01e3cb08",
       "summary": "Besides the default light mode, also provide a dark alternative for the entire application.",
