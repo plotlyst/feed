@@ -1,6 +1,39 @@
 {
   "tasks": [
     {
+      "title": "Inline tables in documents",
+      "status_ref": "dcce7399-a45c-4ff4-a699-03fd01e3cb08",
+      "summary": "Support tables in documents.",
+      "votes": 1,
+      "tags": [
+        "documents"
+      ],
+      "web_link": "https://plotlyst.featurebase.app/p/inline-tables-in-documents",
+      "version": "Free"
+    },
+    {
+      "title": "Inline images in documents",
+      "status_ref": "dcce7399-a45c-4ff4-a699-03fd01e3cb08",
+      "summary": "Support images in documents.",
+      "votes": 1,
+      "tags": [
+        "documents"
+      ],
+      "web_link": "https://plotlyst.featurebase.app/p/inline-images-in-documents",
+      "version": "Free"
+    },
+    {
+      "title": "Typewriter sounds in manuscript panel",
+      "status_ref": "dcce7399-a45c-4ff4-a699-03fd01e3cb08",
+      "summary": "Optionally, play typewriter sounds on each keypress while writing the manuscript. Provide it as an extra setting, disabled by default.",
+      "votes": 1,
+      "tags": [
+        "manuscript"
+      ],
+      "web_link": "https://plotlyst.featurebase.app/p/typewriter-sounds-in-manuscript-panel",
+      "version": "Plus"
+    },
+    {
       "title": "Detach panels into separate windows",
       "status_ref": "dcce7399-a45c-4ff4-a699-03fd01e3cb08",
       "summary": "Allow detaching any existing panels (character, scene, documents, etc.) into a separate window, therefore using the app in a multi-window layout.",
@@ -149,6 +182,16 @@
     "milieu": {
       "text": "Milieu and world-building related tasks",
       "icon": "mdi.globe-model",
+      "icon_color": "#4B0763"
+    },
+    "manuscript": {
+      "text": "Manuscript related tasks",
+      "icon": "fa5s.scroll",
+      "icon_color": "#4B0763"
+    },
+    "documents": {
+      "text": "Document and mindmap related tasks",
+      "icon": "mdi.file-document-outline",
       "icon_color": "#4B0763"
     },
     "series": {

@@ -29,6 +29,8 @@ tags = {
     "scene": Tag("Scene related tasks", "mdi.movie-open"),
     "structure": Tag("Story structure related tasks", "mdi6.bridge"),
     "milieu": Tag("Milieu and world-building related tasks", "mdi.globe-model"),
+    "manuscript": Tag("Manuscript related tasks", "fa5s.scroll"),
+    "documents": Tag("Document and mindmap related tasks", "mdi.file-document-outline"),
     "series": Tag("Series related tasks", "ph.books"),
     "appearance": Tag("General application appearance and style", "fa5s.palette"),
     "quality of life": Tag("Quality of life improvements", "fa5s.hand-holding-heart"),
