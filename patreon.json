@@ -1,0 +1,132 @@
+{
+  "tiers": [
+    {
+      "name": "Supporter",
+      "description": "Support the development of an indie project.",
+      "perks": [
+        "<b>Plotlyst Roadmap Form</b>: Influence the roadmap and future releases",
+        "Guaranteed Support: Receive help and answers to your questions",
+        "Guaranteed Feature Request Discussions",
+        "<b>Recognition in Plotlyst</b>: Your name listed inside the app, with an optional link to your website",
+        "Supporter role on Discord"
+      ],
+      "price": "3",
+      "has_roadmap_form": true
+    },
+    {
+      "name": "Plotlyst Plus Member",
+      "description": "Unlock all Plotlyst Plus extensions.\n\nGain access to the Plotlyst Roadmap Form, an online form where you can share your preferences and become an integral part of Plotlyst’s roadmap. Your answers will help shape the future direction of Plotlyst and influence upcoming releases.",
+      "perks": [
+        "<b>Plotlyst Plus Access</b>: Unlock all future premium Plotlyst Plus features (currently under development)",
+        "All Supporter Tier Benefits"
+      ],
+      "price": "5",
+      "has_plotlyst_plus": true
+    },
+    {
+      "name": "Early Access Patron",
+      "description": "Experience new features before anyone else.",
+      "perks": [
+        "<b>Early access to new features and updates</b>",
+        "Optional Feedback Opportunity: Share your thoughts to help refine new features",
+        "Acknowledgment in Release Notes for tested features",
+        "All Plotlyst Plus Member Benefits"
+      ],
+      "price": "7.5",
+      "has_early_access": true
+    },
+    {
+      "name": "VIP Patron",
+      "description": "Stand out with exclusive recognition and enjoy top-priority support.",
+      "perks": [
+        "<b>Premium Recognition</b>: Prominent listing in the app with a description, avatar, and socials",
+        "<b>Priority Support</b>: Get faster responses to inquiries",
+        "Direct chat on Discord with the developer",
+        "All Early Access Patron Benefits"
+      ],
+      "price": "10",
+      "has_premium_recognition": true
+    }
+  ],
+  "survey": {
+    "stage": {
+      "Brainstorming and discovering story": 0,
+      "Outlining and planning": 1,
+      "Drafting": 0,
+      "Developmental editing": 0,
+      "Line and copy-editing": 0
+    },
+    "panels": {
+      "Characters": 1,
+      "Scenes": 1,
+      "Story Structure": 0,
+      "Storylines": 0,
+      "Manuscript": 0,
+      "Milieu": 0,
+      "World-building": 1,
+      "Documents and Mindmaps": 0,
+      "Task Management": 0
+    },
+    "genres": {
+      "Fantasy": 1,
+      "Sci-Fi": 0,
+      "Romance": 0,
+      "Mystery": 0,
+      "Action or Adventure": 0,
+      "Thriller/Suspense": 0,
+      "Horror": 0,
+      "Paranormal": 0,
+      "Crime": 0,
+      "Coming of Age": 0,
+      "Cozy": 0,
+      "Historical Fiction": 0,
+      "War": 0,
+      "Western": 0,
+      "Upmarket": 0,
+      "Literary Fiction": 0,
+      "Society": 0,
+      "Memoir": 0,
+      "Children's Books": 0,
+      "Slice of Life": 0,
+      "Comedy": 0,
+      "Contemporary": 0
+    },
+    "new": {
+      "Improve or expand current features": 0,
+      "Allow the customization of existing features": 0,
+      "Add new features": 1
+    },
+    "secondary": {
+      "Printables": {
+        "description": "Export ready-to-print templates for physical use",
+        "percentage": 0
+      },
+      "Exporting Features": {
+        "description": "Images, pdf, docx, epub, Kindle, Notion, Google Docs)",
+        "percentage": 0
+      },
+      "Knowledge Base and Guides": {
+        "description": "",
+        "percentage": 0
+      },
+      "Productivity": {
+        "description": "Tracking writing habits, tasks, milestones",
+        "percentage": 100
+      },
+      "Creativity and Inspiration Tools": {
+        "description": "Prompts, Moodboards",
+        "percentage": 0
+      },
+      "Social Snapshots": {
+        "description": "Create shareable and customizable visuals of your writing journey for social media",
+        "percentage": 100
+      },
+      "Writing Compass": {
+        "description": "Customizable phased milestones for helping the writing process from brainstorming to final revisions",
+        "percentage": 100
+      }
+    }
+  }
+}
+
+
