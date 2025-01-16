@@ -1,0 +1,95 @@
+{
+  "tasks": [
+    {
+      "title": "Typewriter sounds in manuscript panel",
+      "status_ref": "dcce7399-a45c-4ff4-a699-03fd01e3cb08",
+      "summary": "Optionally, play typewriter sounds on each keypress while writing the manuscript. Provide it as an extra setting, disabled by default.",
+      "votes": 1,
+      "tags": [
+        "manuscript"
+      ],
+      "web_link": "https://plotlyst.featurebase.app/p/typewriter-sounds-in-manuscript-panel",
+      "version": "Plus"
+    },
+    {
+      "title": "Character agency editor",
+      "status_ref": "dcce7399-a45c-4ff4-a699-03fd01e3cb08",
+      "summary": "Track character agency, changes, emotions, conflicts, and motivations per scenes.",
+      "votes": 4,
+      "tags": [
+        "scene"
+      ],
+      "web_link": "https://plotlyst.featurebase.app/p/character-agency-editor",
+      "version": "Plus"
+    }
+  ],
+  "statuses": [
+    {
+      "text": "Planned",
+      "id": "dcce7399-a45c-4ff4-a699-03fd01e3cb08",
+      "color_hexa": "#0077b6"
+    },
+    {
+      "text": "In Progress",
+      "id": "c36602fe-d08b-4554-8526-b3f034131c39",
+      "color_hexa": "#9f86c0"
+    },
+    {
+      "text": "Completed",
+      "id": "cfa85d26-524c-4364-b089-691000094b52",
+      "color_hexa": "#588157"
+    }
+  ],
+  "tags": {
+    "character": {
+      "text": "Character related tasks",
+      "icon": "fa5s.user",
+      "icon_color": "#4B0763"
+    },
+    "scene": {
+      "text": "Scene related tasks",
+      "icon": "mdi.movie-open",
+      "icon_color": "#4B0763"
+    },
+    "structure": {
+      "text": "Story structure related tasks",
+      "icon": "mdi6.bridge",
+      "icon_color": "#4B0763"
+    },
+    "milieu": {
+      "text": "Milieu and world-building related tasks",
+      "icon": "mdi.globe-model",
+      "icon_color": "#4B0763"
+    },
+    "manuscript": {
+      "text": "Manuscript related tasks",
+      "icon": "fa5s.scroll",
+      "icon_color": "#4B0763"
+    },
+    "documents": {
+      "text": "Document and mindmap related tasks",
+      "icon": "mdi.file-document-outline",
+      "icon_color": "#4B0763"
+    },
+    "series": {
+      "text": "Series related tasks",
+      "icon": "ph.books",
+      "icon_color": "#4B0763"
+    },
+    "appearance": {
+      "text": "General application appearance and style",
+      "icon": "fa5s.palette",
+      "icon_color": "#4B0763"
+    },
+    "quality of life": {
+      "text": "Quality of life improvements",
+      "icon": "fa5s.hand-holding-heart",
+      "icon_color": "#4B0763"
+    },
+    "knowledge base": {
+      "text": "Knowledge base and guides",
+      "icon": "mdi6.school-outline",
+      "icon_color": "#4B0763"
+    }
+  }
+}
