@@ -50,80 +50,193 @@
   ],
   "survey": {
     "stage": {
-      "Brainstorming": 0,
-      "Outlining and planning": 1,
-      "Drafting": 0,
-      "Developmental editing": 0,
-      "Line and copy-editing": 0
+      "title": "Stage of writing",
+      "description": "What stage of writing should Plotlyst help you with the most?",
+      "items": {
+        "Brainstorming": {
+          "value": 0
+        },
+        "Outlining and planning": {
+          "value": 1
+        },
+        "Drafting": {
+          "value": 0
+        },
+        "Developmental editing": {
+          "value": 0
+        },
+        "Line and copy-editing": {
+          "value": 0
+        }
+      }
     },
     "panels": {
-      "Characters": 1,
-      "Scenes": 1,
-      "Story Structure": 0,
-      "Storylines": 0,
-      "Manuscript": 0,
-      "Milieu": 0,
-      "World-building": 1,
-      "Documents and Mindmaps": 0,
-      "Task Management": 0
+      "title": "Main panels",
+      "description": "Which main panels should Plotlyst prioritize the most?",
+      "items": {
+        "Characters": {
+          "value": 1
+        },
+        "Scenes": {
+          "value": 1
+        },
+        "Story Structure": {
+          "value": 0
+        },
+        "Storylines": {
+          "value": 0
+        },
+        "Manuscript": {
+          "value": 0
+        },
+        "Milieu": {
+          "value": 0
+        },
+        "World-building": {
+          "value": 1
+        },
+        "Documents and Mindmaps": {
+          "value": 0
+        },
+        "Task Management": {
+          "value": 0
+        }
+      }
     },
     "genres": {
-      "Fantasy": 1,
-      "Sci-Fi": 0,
-      "Romance": 0,
-      "Mystery": 0,
-      "Action or Adventure": 0,
-      "Thriller/Suspense": 0,
-      "Horror": 0,
-      "Paranormal": 0,
-      "Crime": 0,
-      "Coming of Age": 0,
-      "Cozy": 0,
-      "Historical Fiction": 0,
-      "War": 0,
-      "Western": 0,
-      "Upmarket": 0,
-      "Literary Fiction": 0,
-      "Society": 0,
-      "Memoir": 0,
-      "Children's Books": 0,
-      "Slice of Life": 0,
-      "Comedy": 0,
-      "Contemporary": 0
+      "title": "Genres",
+      "description": "If possible, which genres should Plotlyst consider the most?",
+      "items": {
+        "Fantasy": {
+          "value": 1
+        },
+        "Sci-Fi": {
+          "value": 0
+        },
+        "Romance": {
+          "value": 0
+        },
+        "Mystery": {
+          "value": 0
+        },
+        "Action or Adventure": {
+          "value": 0
+        },
+        "Thriller/Suspense": {
+          "value": 0
+        },
+        "Horror": {
+          "value": 0
+        },
+        "Paranormal": {
+          "value": 0
+        },
+        "Crime": {
+          "value": 0
+        },
+        "Coming of Age": {
+          "value": 0
+        },
+        "Cozy": {
+          "value": 0
+        },
+        "Historical Fiction": {
+          "value": 0
+        },
+        "War": {
+          "value": 0
+        },
+        "Western": {
+          "value": 0
+        },
+        "Upmarket": {
+          "value": 0
+        },
+        "Literary Fiction": {
+          "value": 0
+        },
+        "Society": {
+          "value": 0
+        },
+        "Memoir": {
+          "value": 0
+        },
+        "Children's Books": {
+          "value": 0
+        },
+        "Slice of Life": {
+          "value": 0
+        },
+        "Comedy": {
+          "value": 0
+        },
+        "Contemporary": {
+          "value": 0
+        }
+      }
     },
     "new": {
-      "Improve or expand current features": 0,
-      "Allow the customization of existing features": 0,
-      "Add new features": 1
+      "title": "New Features vs. Improving Existing Ones",
+      "description": "Should Plotlyst focus on introducing new features or improving existing ones?",
+      "items": {
+        "Improve or expand current features": {
+          "value": 0
+        },
+        "Allow the customization of existing features": {
+          "value": 0
+        },
+        "Add new features": {
+          "value": 1
+        }
+      }
     },
     "secondary": {
-      "Printables": {
-        "description": "Export ready-to-print templates for physical use",
-        "percentage": 0
-      },
-      "Exporting Features": {
-        "description": "Images, pdf, docx, epub, Kindle, Notion, Google Docs)",
-        "percentage": 0
-      },
-      "Knowledge Base and Guides": {
-        "description": "",
-        "percentage": 0
-      },
-      "Productivity": {
-        "description": "Tracking writing habits, tasks, milestones",
-        "percentage": 100
-      },
-      "Creativity and Inspiration Tools": {
-        "description": "Prompts, Moodboards",
-        "percentage": 0
-      },
-      "Social Snapshots": {
-        "description": "Create shareable and customizable visuals of your writing journey for social media",
-        "percentage": 100
-      },
-      "Writing Compass": {
-        "description": "Customizable phased milestones for helping the writing process from brainstorming to final revisions",
-        "percentage": 100
+      "title": "Secondary panels",
+      "description": "A certain percentage of Patrons voted they would prefer the following secondary panels",
+      "items": {
+        "Printables": {
+          "description": "Export ready-to-print templates for physical use",
+          "value": 0
+        },
+        "Exporting Features": {
+          "description": "Images, pdf, docx, epub, Kindle, Notion, Google Docs)",
+          "value": 0
+        },
+        "Knowledge Base and Guides": {
+          "description": "",
+          "value": 0
+        },
+        "Productivity": {
+          "description": "Tracking writing habits, tasks, milestones",
+          "value": 100
+        },
+        "Creativity and Inspiration Tools": {
+          "description": "Prompts, Moodboards, custom visuals and themes",
+          "value": 0
+        },
+        "Social Snapshots": {
+          "description": "Create shareable and customizable visuals of your writing journey for social media",
+          "value": 100
+        },
+        "Writing Compass": {
+          "description": "Customizable phased milestones for helping the writing process from brainstorming to final revisions",
+          "value": 100
+        }
+      }
+    },
+    "personalization": {
+      "title": "Personalization Options",
+      "description": "How much emphasis should Plotlyst place on personalizing your experience? Less customization (Low) means more new features, while High customization means fewer new functionality but more customization of existing features.",
+      "items": {
+        "High": {
+          "value": 0
+        },
+        "Medium": {
+          "value": 1
+        },
+        "Low": {
+          "value": 0
+        }
       }
     }
   }
