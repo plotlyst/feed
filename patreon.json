@@ -51,7 +51,7 @@
   "survey": {
     "stage": {
       "title": "Stage of writing",
-      "description": "What stage of writing should Plotlyst help you with the most?",
+      "description": "Which writing stage should Plotlyst help you with the most?",
       "items": {
         "Brainstorming": {
           "value": 0
@@ -108,7 +108,7 @@
       "description": "If possible, which genres should Plotlyst consider the most?",
       "items": {
         "Fantasy": {
-          "value": 1
+          "value": 100
         },
         "Sci-Fi": {
           "value": 0
