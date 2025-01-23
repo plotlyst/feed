@@ -185,13 +185,16 @@
       "description": "Should Plotlyst focus on introducing new features or improving existing ones?",
       "items": {
         "Improve or expand current features": {
-          "value": 0
+          "value": 0,
+          "color": "#A367BC"
         },
         "Allow the customization of existing features": {
-          "value": 0
+          "value": 0,
+          "color": "#D4B8E0"
         },
         "Add new features": {
-          "value": 1
+          "value": 1,
+          "color": "#3C0764"
         }
       }
     },
@@ -241,13 +244,16 @@
       "description": "How much emphasis should Plotlyst place on personalizing your experience? Less customization (Low) means more new features, while High customization means fewer new functionality but more customization of existing features.",
       "items": {
         "High": {
-          "value": 0
+          "value": 0,
+          "color": "#3C0764"
         },
         "Medium": {
-          "value": 1
+          "value": 1,
+          "color": "#A367BC"
         },
         "Low": {
-          "value": 0
+          "value": 0,
+          "color": "#D4B8E0"
         }
       }
     }
