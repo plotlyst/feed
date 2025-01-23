@@ -75,31 +75,36 @@
       "description": "Which main panels should Plotlyst prioritize the most?",
       "items": {
         "Characters": {
-          "value": 1
+          "value": 1,
+          "icon": "fa5s.user"
         },
         "Scenes": {
-          "value": 1
+          "value": 1,
+          "icon": "mdi.movie-open"
         },
         "Story Structure": {
-          "value": 0
+          "value": 0,
+          "icon": "mdi6.bridge"
         },
         "Storylines": {
-          "value": 0
+          "value": 0,
+          "icon": "fa5s.theater-masks"
         },
         "Manuscript": {
-          "value": 0
-        },
-        "Milieu": {
-          "value": 0
+          "value": 0,
+          "icon": "fa5s.scroll"
         },
         "World-building": {
-          "value": 1
+          "value": 1,
+          "icon": "mdi.globe-model"
         },
         "Documents and Mindmaps": {
-          "value": 0
+          "value": 0,
+          "icon": "mdi.file-document-outline"
         },
         "Task Management": {
-          "value": 0
+          "value": 0,
+          "icon": "mdi6.clipboard-check-outline"
         }
       }
     },
@@ -196,31 +201,38 @@
       "items": {
         "Printables": {
           "description": "Export ready-to-print templates for physical use",
-          "value": 0
+          "value": 0,
+          "icon": "ei.print"
         },
         "Exporting Features": {
           "description": "Images, pdf, docx, epub, Kindle, Notion, Google Docs)",
-          "value": 0
+          "value": 0,
+          "icon": "mdi6.file-export-outline"
         },
         "Knowledge Base and Guides": {
           "description": "",
-          "value": 0
+          "value": 0,
+          "icon": "fa5s.graduation-cap"
         },
         "Productivity": {
           "description": "Tracking writing habits, tasks, milestones",
-          "value": 100
+          "value": 100,
+          "icon": "fa5.calendar-alt"
         },
         "Creativity and Inspiration Tools": {
           "description": "Prompts, Moodboards, custom visuals and themes",
-          "value": 0
+          "value": 0,
+          "icon": "fa5s.palette"
         },
         "Social Snapshots": {
           "description": "Create shareable and customizable visuals of your writing journey for social media",
-          "value": 100
+          "value": 100,
+          "icon": "mdi.camera-plus"
         },
         "Writing Compass": {
           "description": "Customizable phased milestones for helping the writing process from brainstorming to final revisions",
-          "value": 100
+          "value": 100,
+          "icon": "fa5.compass"
         }
       }
     },
