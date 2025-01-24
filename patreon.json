@@ -2,11 +2,11 @@
   "tiers": [
     {
       "name": "Supporter",
-      "description": "Support the development of an indie project.",
+      "description": "Support the development of an indie project.\nGain access to the Plotlyst Roadmap Form, an online form where you can share your preferences and become an integral part of Plotlyst’s roadmap. Your answers will help shape the future direction of Plotlyst and influence upcoming releases.",
       "perks": [
+        "<b>Early access to new features and updates</b>",
         "<b>Plotlyst Roadmap Form</b>: Influence the roadmap and future releases",
         "Guaranteed Support: Receive help and answers to your questions",
-        "Guaranteed Feature Request Discussions",
         "<b>Recognition in Plotlyst</b>: Your name listed inside the app, with an optional link to your website",
         "Supporter role on Discord"
       ],
@@ -15,7 +15,7 @@
     },
     {
       "name": "Plotlyst Plus Member",
-      "description": "Unlock all Plotlyst Plus extensions.\n\nGain access to the Plotlyst Roadmap Form, an online form where you can share your preferences and become an integral part of Plotlyst’s roadmap. Your answers will help shape the future direction of Plotlyst and influence upcoming releases.",
+      "description": "Unlock all Plotlyst Plus extensions.",
       "perks": [
         "<b>Plotlyst Plus Access</b>: Unlock all future premium Plotlyst Plus features (currently under development)",
         "All Supporter Tier Benefits"
@@ -24,25 +24,12 @@
       "has_plotlyst_plus": true
     },
     {
-      "name": "Early Access Patron",
-      "description": "Experience new features before anyone else.",
-      "perks": [
-        "<b>Early access to new features and updates</b>",
-        "Optional Feedback Opportunity: Share your thoughts to help refine new features",
-        "Acknowledgment in Release Notes for tested features",
-        "All Plotlyst Plus Member Benefits"
-      ],
-      "price": "7.5",
-      "has_early_access": true
-    },
-    {
       "name": "VIP Patron",
       "description": "Stand out with exclusive recognition and enjoy top-priority support.",
       "perks": [
         "<b>Premium Recognition</b>: Prominent listing in the app with a description, avatar, and socials",
         "<b>Priority Support</b>: Get faster responses to inquiries",
-        "Direct chat on Discord with the developer",
-        "All Early Access Patron Benefits"
+        "All Plotlyst Plus Member Benefits"
       ],
       "price": "10",
       "has_premium_recognition": true
