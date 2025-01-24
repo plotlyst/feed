@@ -203,12 +203,12 @@
       "description": "A certain percentage of Patrons voted they would prefer the following secondary panels",
       "items": {
         "Printables": {
-          "description": "Export ready-to-print templates for physical use",
+          "description": "Create ready-to-print templates for physical use",
           "value": 0,
           "icon": "ei.print"
         },
         "Exporting Features": {
-          "description": "Images, pdf, docx, epub, Kindle, Notion, Google Docs)",
+          "description": "Images, pdf, docx, epub, Kindle, Notion, Google Docs",
           "value": 0,
           "icon": "mdi6.file-export-outline"
         },
