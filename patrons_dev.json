@@ -1,1 +1,1192 @@
-{"patrons": [{"name": "Zsolt", "icon": "fa5s.gem", "bio": "Fantasy Writer | Developer of Plotlyst", "web": "https://plotlyst.com/", "genre": "fantasy", "vip": true, "socials": {"ig": "https://instagram.com/plotlyst", "x": "https://x.com/plotlyst", "threads": "https://threats.net/@plotlyst"}}, {"name": "Alex89", "bio": "Sci-Fi Writer: working on this and that", "description": "A longer description about my work. I write Sci-Fi with aliens, and I like engaging with the community.", "web": "https://plotlyst.com/", "icon": "mdi6.space-station", "genre": "sci-fi", "vip": true, "novels": [{"title": "My sci-fi novel", "premise": "When a child goes out to embark on a journey, he finds an ally nad blah blah blah", "web": "https://plotlyst.com/"}]}, {"name": "Samantha", "bio": "", "web": "", "genre": ""}, {"name": "PixelNerd42", "bio": "", "web": "", "genre": ""}, {"name": "Joey", "bio": "", "web": "", "genre": ""}, {"name": "DragonSlayer77", "bio": "", "web": "", "genre": ""}, {"name": "Emma", "bio": "", "web": "", "genre": ""}, {"name": "TechieGirl99", "bio": "", "web": "", "genre": ""}, {"name": "Mike", "bio": "", "web": "", "genre": ""}, {"name": "SpaceCowboy", "bio": "", "web": "", "genre": ""}, {"name": "Chris", "bio": "", "web": "", "genre": ""}, {"name": "KnightRider21", "bio": "", "web": "", "genre": ""}, {"name": "Oliver", "bio": "", "web": "", "genre": ""}, {"name": "BookWorm", "bio": "", "web": "", "genre": ""}, {"name": "Stella", "bio": "", "web": "", "genre": ""}, {"name": "GamerGuy", "bio": "", "web": "", "genre": ""}, {"name": "Taylor", "bio": "", "web": "", "genre": ""}, {"name": "Misty", "bio": "", "web": "", "genre": ""}, {"name": "CyberQueen", "bio": "", "web": "", "genre": ""}, {"name": "Lucas", "bio": "", "web": "", "genre": ""}, {"name": "CodeCracker", "bio": "", "web": "", "genre": ""}, {"name": "Bella", "bio": "", "web": "", "genre": ""}, {"name": "StoryWeaver", "bio": "", "web": "", "genre": ""}, {"name": "Hunter", "bio": "", "web": "", "genre": ""}, {"name": "FrostBite", "bio": "", "web": "", "genre": ""}, {"name": "Lily", "bio": "", "web": "", "genre": ""}, {"name": "ShadowCat", "bio": "", "web": "", "genre": ""}, {"name": "Jenna", "bio": "", "web": "", "genre": ""}, {"name": "RogueStar", "bio": "", "web": "", "genre": ""}, {"name": "Ethan", "bio": "", "web": "", "genre": ""}, {"name": "LegendMaker", "bio": "", "web": "", "genre": ""}, {"name": "Rose", "bio": "", "web": "", "genre": ""}, {"name": "GalaxyKnight", "bio": "", "web": "", "genre": ""}, {"name": "Zoe", "bio": "", "web": "", "genre": ""}, {"name": "ArcticWolf", "bio": "", "web": "", "genre": ""}, {"name": "Liam", "bio": "", "web": "", "genre": ""}, {"name": "MysticScribe", "bio": "", "web": "", "genre": ""}, {"name": "Sophia", "bio": "", "web": "", "genre": ""}, {"name": "IronFist", "bio": "", "web": "", "genre": ""}, {"name": "Noah", "bio": "", "web": "", "genre": ""}, {"name": "SilentWhisper", "bio": "", "web": "", "genre": ""}, {"name": "Emily", "bio": "", "web": "", "genre": ""}, {"name": "ThunderHawk", "bio": "", "web": "", "genre": ""}, {"name": "Ryan", "bio": "", "web": "", "genre": ""}, {"name": "OceanDreamer", "bio": "", "web": "", "genre": ""}, {"name": "Chloe", "bio": "", "web": "", "genre": ""}, {"name": "AlphaRanger", "bio": "", "web": "", "genre": ""}, {"name": "Nathan", "bio": "", "web": "", "genre": ""}, {"name": "PhoenixFlame", "bio": "", "web": "", "genre": ""}, {"name": "Claire", "bio": "", "web": "", "genre": ""}, {"name": "DigitalNomad", "bio": "", "web": "", "genre": ""}, {"name": "Isaac", "bio": "", "web": "", "genre": ""}, {"name": "StarryEyes", "bio": "", "web": "", "genre": ""}, {"name": "Ruby", "bio": "", "web": "", "genre": ""}, {"name": "MasterCoder", "bio": "", "web": "", "genre": ""}, {"name": "Owen", "bio": "", "web": "", "genre": ""}, {"name": "SnowyPeak", "bio": "", "web": "", "genre": ""}, {"name": "Ava", "bio": "", "web": "", "genre": ""}, {"name": "WildWanderer", "bio": "", "web": "", "genre": ""}, {"name": "Mason", "bio": "", "web": "", "genre": ""}, {"name": "FireFury", "bio": "", "web": "", "genre": ""}, {"name": "Ella", "bio": "", "web": "", "genre": ""}, {"name": "QuickSilver", "bio": "", "web": "", "genre": ""}, {"name": "Jack", "bio": "", "web": "", "genre": ""}, {"name": "RisingSun", "bio": "", "web": "", "genre": ""}, {"name": "Hannah", "bio": "", "web": "", "genre": ""}, {"name": "NightCrawler", "bio": "", "web": "", "genre": ""}, {"name": "Leo", "bio": "", "web": "", "genre": ""}, {"name": "SapphireDream", "bio": "", "web": "", "genre": ""}, {"name": "Scarlett", "bio": "", "web": "", "genre": ""}, {"name": "BraveHeart", "bio": "", "web": "", "genre": ""}, {"name": "Grace", "bio": "", "web": "", "genre": ""}, {"name": "DarkPhoenix", "bio": "", "web": "", "genre": ""}, {"name": "Miles", "bio": "", "web": "", "genre": ""}, {"name": "SilentStorm", "bio": "", "web": "", "genre": ""}, {"name": "Mila", "bio": "", "web": "", "genre": ""}, {"name": "MagicMaker", "bio": "", "web": "", "genre": ""}, {"name": "Finn", "bio": "", "web": "", "genre": ""}, {"name": "SilverArrow", "bio": "", "web": "", "genre": ""}, {"name": "Ellie", "bio": "", "web": "", "genre": ""}, {"name": "GoldenEagle", "bio": "", "web": "", "genre": ""}, {"name": "Max", "bio": "", "web": "", "genre": ""}, {"name": "NightSky", "bio": "", "web": "", "genre": ""}, {"name": "Alice", "bio": "", "web": "", "genre": ""}, {"name": "CrimsonRider", "bio": "", "web": "", "genre": ""}, {"name": "Elijah", "bio": "", "web": "", "genre": ""}, {"name": "StormRider", "bio": "", "web": "", "genre": ""}, {"name": "Charlotte", "bio": "", "web": "", "genre": ""}, {"name": "DreamChaser", "bio": "", "web": "", "genre": ""}, {"name": "Zach", "bio": "", "web": "", "genre": ""}, {"name": "LightBringer", "bio": "", "web": "", "genre": ""}, {"name": "Harper", "bio": "", "web": "", "genre": ""}, {"name": "IronShield", "bio": "", "web": "", "genre": ""}, {"name": "Theo", "bio": "", "web": "", "genre": ""}, {"name": "FierceTiger", "bio": "", "web": "", "genre": ""}, {"name": "Isabella", "bio": "", "web": "", "genre": ""}, {"name": "WinterWind", "bio": "", "web": "", "genre": ""}, {"name": "Daniel", "bio": "", "web": "", "genre": ""}, {"name": "Alex89", "bio": "", "web": "", "genre": ""}, {"name": "Samantha", "bio": "", "web": "", "genre": ""}, {"name": "PixelNerd42", "bio": "", "web": "", "genre": ""}, {"name": "Joey", "bio": "", "web": "", "genre": ""}, {"name": "DragonSlayer77", "bio": "", "web": "", "genre": ""}, {"name": "Emma", "bio": "", "web": "", "genre": ""}, {"name": "TechieGirl99", "bio": "", "web": "", "genre": ""}, {"name": "Mike", "bio": "", "web": "", "genre": ""}, {"name": "SpaceCowboy", "bio": "", "web": "", "genre": ""}, {"name": "Chris", "bio": "", "web": "", "genre": ""}, {"name": "KnightRider21", "bio": "", "web": "", "genre": ""}, {"name": "Oliver", "bio": "", "web": "", "genre": ""}, {"name": "BookWorm", "bio": "", "web": "", "genre": ""}, {"name": "Stella", "bio": "", "web": "", "genre": ""}, {"name": "GamerGuy", "bio": "", "web": "", "genre": ""}, {"name": "Taylor", "bio": "", "web": "", "genre": ""}, {"name": "Misty", "bio": "", "web": "", "genre": ""}, {"name": "CyberQueen", "bio": "", "web": "", "genre": ""}, {"name": "Lucas", "bio": "", "web": "", "genre": ""}, {"name": "CodeCracker", "bio": "", "web": "", "genre": ""}, {"name": "Bella", "bio": "", "web": "", "genre": ""}, {"name": "StoryWeaver", "bio": "", "web": "", "genre": ""}, {"name": "Hunter", "bio": "", "web": "", "genre": ""}, {"name": "FrostBite", "bio": "", "web": "", "genre": ""}, {"name": "Lily", "bio": "", "web": "", "genre": ""}, {"name": "ShadowCat", "bio": "", "web": "", "genre": ""}, {"name": "Jenna", "bio": "", "web": "", "genre": ""}, {"name": "RogueStar", "bio": "", "web": "", "genre": ""}, {"name": "Ethan", "bio": "", "web": "", "genre": ""}, {"name": "LegendMaker", "bio": "", "web": "", "genre": ""}, {"name": "Rose", "bio": "", "web": "", "genre": ""}, {"name": "GalaxyKnight", "bio": "", "web": "", "genre": ""}, {"name": "Zoe", "bio": "", "web": "", "genre": ""}, {"name": "ArcticWolf", "bio": "", "web": "", "genre": ""}, {"name": "Liam", "bio": "", "web": "", "genre": ""}, {"name": "MysticScribe", "bio": "", "web": "", "genre": ""}, {"name": "Sophia", "bio": "", "web": "", "genre": ""}, {"name": "IronFist", "bio": "", "web": "", "genre": ""}, {"name": "Noah", "bio": "", "web": "", "genre": ""}, {"name": "SilentWhisper", "bio": "", "web": "", "genre": ""}, {"name": "Emily", "bio": "", "web": "", "genre": ""}, {"name": "ThunderHawk", "bio": "", "web": "", "genre": ""}, {"name": "Ryan", "bio": "", "web": "", "genre": ""}, {"name": "OceanDreamer", "bio": "", "web": "", "genre": ""}, {"name": "Chloe", "bio": "", "web": "", "genre": ""}, {"name": "AlphaRanger", "bio": "", "web": "", "genre": ""}, {"name": "Nathan", "bio": "", "web": "", "genre": ""}, {"name": "PhoenixFlame", "bio": "", "web": "", "genre": ""}, {"name": "Claire", "bio": "", "web": "", "genre": ""}, {"name": "DigitalNomad", "bio": "", "web": "", "genre": ""}, {"name": "Isaac", "bio": "", "web": "", "genre": ""}, {"name": "StarryEyes", "bio": "", "web": "", "genre": ""}, {"name": "Ruby", "bio": "", "web": "", "genre": ""}, {"name": "MasterCoder", "bio": "", "web": "", "genre": ""}, {"name": "Owen", "bio": "", "web": "", "genre": ""}, {"name": "SnowyPeak", "bio": "", "web": "", "genre": ""}, {"name": "Ava", "bio": "", "web": "", "genre": ""}, {"name": "WildWanderer", "bio": "", "web": "", "genre": ""}, {"name": "Mason", "bio": "", "web": "", "genre": ""}, {"name": "FireFury", "bio": "", "web": "", "genre": ""}, {"name": "Ella", "bio": "", "web": "", "genre": ""}, {"name": "QuickSilver", "bio": "", "web": "", "genre": ""}, {"name": "Jack", "bio": "", "web": "", "genre": ""}, {"name": "RisingSun", "bio": "", "web": "", "genre": ""}, {"name": "Hannah", "bio": "", "web": "", "genre": ""}, {"name": "NightCrawler", "bio": "", "web": "", "genre": ""}, {"name": "Leo", "bio": "", "web": "", "genre": ""}, {"name": "SapphireDream", "bio": "", "web": "", "genre": ""}, {"name": "Scarlett", "bio": "", "web": "", "genre": ""}, {"name": "BraveHeart", "bio": "", "web": "", "genre": ""}, {"name": "Grace", "bio": "", "web": "", "genre": ""}, {"name": "DarkPhoenix", "bio": "", "web": "", "genre": ""}, {"name": "Miles", "bio": "", "web": "", "genre": ""}, {"name": "SilentStorm", "bio": "", "web": "", "genre": ""}, {"name": "Mila", "bio": "", "web": "", "genre": ""}, {"name": "MagicMaker", "bio": "", "web": "", "genre": ""}, {"name": "Finn", "bio": "", "web": "", "genre": ""}, {"name": "SilverArrow", "bio": "", "web": "", "genre": ""}, {"name": "Ellie", "bio": "", "web": "", "genre": ""}, {"name": "GoldenEagle", "bio": "", "web": "", "genre": ""}, {"name": "Max", "bio": "", "web": "", "genre": ""}, {"name": "NightSky", "bio": "", "web": "", "genre": ""}, {"name": "Alice", "bio": "", "web": "", "genre": ""}, {"name": "CrimsonRider", "bio": "", "web": "", "genre": ""}, {"name": "Elijah", "bio": "", "web": "", "genre": ""}, {"name": "StormRider", "bio": "", "web": "", "genre": ""}, {"name": "Charlotte", "bio": "", "web": "", "genre": ""}, {"name": "DreamChaser", "bio": "", "web": "", "genre": ""}, {"name": "Zach", "bio": "", "web": "", "genre": ""}, {"name": "LightBringer", "bio": "", "web": "", "genre": ""}, {"name": "Harper", "bio": "", "web": "", "genre": ""}, {"name": "IronShield", "bio": "", "web": "", "genre": ""}, {"name": "Theo", "bio": "", "web": "", "genre": ""}, {"name": "FierceTiger", "bio": "", "web": "", "genre": ""}, {"name": "Isabella", "bio": "", "web": "", "genre": ""}, {"name": "WinterWind", "bio": "", "web": "", "genre": ""}, {"name": "Daniel", "bio": "", "web": "", "genre": ""}]}
+{
+  "patrons": [
+    {
+      "name": "Zsolt",
+      "icon": "fa5s.gem",
+      "bio": "Fantasy Writer | Developer of Plotlyst",
+      "web": "https://plotlyst.com/",
+      "genre": "fantasy",
+      "vip": true,
+      "socials": {
+        "ig": "https://instagram.com/plotlyst",
+        "x": "https://x.com/plotlyst",
+        "threads": "https://threats.net/@plotlyst"
+      }
+    },
+    {
+      "name": "Alex89",
+      "bio": "Sci-Fi Writer: working on this and that",
+      "description": "A longer description about my work. I write Sci-Fi with aliens, and I like engaging with the community.",
+      "web": "https://plotlyst.com/",
+      "icon": "mdi6.space-station",
+      "genre": "sci-fi",
+      "vip": true,
+      "novels": [
+        {
+          "title": "My sci-fi novel",
+          "premise": "When a child goes out to embark on a journey, he finds an ally nad blah blah blah",
+          "web": "https://plotlyst.com/"
+        }
+      ]
+    },
+    {
+      "name": "Samantha",
+      "bio": "",
+      "web": "",
+      "genre": "romance",
+      "vip": true
+    },
+    {
+      "name": "PixelNerd42",
+      "bio": "",
+      "web": "",
+      "genre": "fantasy"
+    },
+    {
+      "name": "Joey",
+      "bio": "",
+      "web": "",
+      "genre": "mystery"
+    },
+    {
+      "name": "DragonSlayer77",
+      "bio": "",
+      "web": "",
+      "genre": "action"
+    },
+    {
+      "name": "Emma",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "TechieGirl99",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Mike",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "SpaceCowboy",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Chris",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "KnightRider21",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Oliver",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "BookWorm",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Stella",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "GamerGuy",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Taylor",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Misty",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "CyberQueen",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Lucas",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "CodeCracker",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Bella",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "StoryWeaver",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Hunter",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "FrostBite",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Lily",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "ShadowCat",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Jenna",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "RogueStar",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Ethan",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "LegendMaker",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Rose",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "GalaxyKnight",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Zoe",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "ArcticWolf",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Liam",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "MysticScribe",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Sophia",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "IronFist",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Noah",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "SilentWhisper",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Emily",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "ThunderHawk",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Ryan",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "OceanDreamer",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Chloe",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "AlphaRanger",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Nathan",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "PhoenixFlame",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Claire",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "DigitalNomad",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Isaac",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "StarryEyes",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Ruby",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "MasterCoder",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Owen",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "SnowyPeak",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Ava",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "WildWanderer",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Mason",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "FireFury",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Ella",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "QuickSilver",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Jack",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "RisingSun",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Hannah",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "NightCrawler",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Leo",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "SapphireDream",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Scarlett",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "BraveHeart",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Grace",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "DarkPhoenix",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Miles",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "SilentStorm",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Mila",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "MagicMaker",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Finn",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "SilverArrow",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Ellie",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "GoldenEagle",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Max",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "NightSky",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Alice",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "CrimsonRider",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Elijah",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "StormRider",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Charlotte",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "DreamChaser",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Zach",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "LightBringer",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Harper",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "IronShield",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Theo",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "FierceTiger",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Isabella",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "WinterWind",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Daniel",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Alex89",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Samantha",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "PixelNerd42",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Joey",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "DragonSlayer77",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Emma",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "TechieGirl99",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Mike",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "SpaceCowboy",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Chris",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "KnightRider21",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Oliver",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "BookWorm",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Stella",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "GamerGuy",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Taylor",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Misty",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "CyberQueen",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Lucas",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "CodeCracker",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Bella",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "StoryWeaver",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Hunter",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "FrostBite",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Lily",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "ShadowCat",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Jenna",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "RogueStar",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Ethan",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "LegendMaker",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Rose",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "GalaxyKnight",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Zoe",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "ArcticWolf",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Liam",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "MysticScribe",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Sophia",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "IronFist",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Noah",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "SilentWhisper",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Emily",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "ThunderHawk",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Ryan",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "OceanDreamer",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Chloe",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "AlphaRanger",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Nathan",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "PhoenixFlame",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Claire",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "DigitalNomad",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Isaac",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "StarryEyes",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Ruby",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "MasterCoder",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Owen",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "SnowyPeak",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Ava",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "WildWanderer",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Mason",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "FireFury",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Ella",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "QuickSilver",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Jack",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "RisingSun",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Hannah",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "NightCrawler",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Leo",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "SapphireDream",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Scarlett",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "BraveHeart",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Grace",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "DarkPhoenix",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Miles",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "SilentStorm",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Mila",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "MagicMaker",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Finn",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "SilverArrow",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Ellie",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "GoldenEagle",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Max",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "NightSky",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Alice",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "CrimsonRider",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Elijah",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "StormRider",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Charlotte",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "DreamChaser",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Zach",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "LightBringer",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Harper",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "IronShield",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Theo",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "FierceTiger",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Isabella",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "WinterWind",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    },
+    {
+      "name": "Daniel",
+      "bio": "",
+      "web": "",
+      "genre": ""
+    }
+  ]
+}
