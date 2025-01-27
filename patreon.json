@@ -18,7 +18,7 @@
       "description": "Unlock all Plotlyst Plus extensions.",
       "perks": [
         "<b>Plotlyst Plus Access</b>: Unlock all future premium Plotlyst Plus features (currently under development)",
-        "All Supporter Tier Benefits"
+        "<i>All Supporter Tier Benefits</i>"
       ],
       "price": "5",
       "has_plotlyst_plus": true
@@ -29,7 +29,7 @@
       "perks": [
         "<b>Premium Recognition</b>: Prominent listing in the app with a description, avatar, and socials",
         "<b>Priority Support</b>: Get faster responses to inquiries",
-        "All Plotlyst Plus Member Benefits"
+        "<i>All Plotlyst Plus Member Benefits</i>"
       ],
       "price": "7.5",
       "has_premium_recognition": true
