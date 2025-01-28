@@ -11,7 +11,14 @@
         "ig": "https://instagram.com/plotlyst",
         "x": "https://x.com/plotlyst",
         "threads": "https://threads.net/@plotlyst"
-      }
+      },
+      "favourites": [
+        "Rebecca",
+        "The Picture of Dorian Gray",
+        "Anna Karenina",
+        "Jane Eyre",
+        "Malazan"
+      ]
     },
     {
       "name": "Alex89",
