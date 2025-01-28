@@ -251,7 +251,7 @@
     },
     "personalization": {
       "title": "Personalization Options",
-      "description": "How much emphasis should Plotlyst place on personalizing your experience? Less customization (Low) means more new features, while High customization means fewer new functionality but more customization of existing features.",
+      "description": "How much emphasis should Plotlyst place on personalizing your experience? Low: more new features. High: fewer new functionality but more customization.",
       "items": {
         "High": {
           "value": 0,
