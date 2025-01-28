@@ -4,7 +4,7 @@
       "name": "Supporter",
       "description": "Support the development of an indie project.\nGain access to the Plotlyst Roadmap Form, an online form where you can share your preferences and become an integral part of Plotlyst’s roadmap. Your answers will help shape the future direction of Plotlyst and influence upcoming releases.",
       "perks": [
-        "<b>Early access to new features and updates</b>",
+        "<b>Early Access</b>: Try new features and updates before public release",
         "<b>Plotlyst Roadmap Form</b>: Influence the roadmap and future releases",
         "Guaranteed Support: Receive help and answers to your questions",
         "<b>Recognition in Plotlyst</b>: Your name listed inside the app, with an optional link to your website",
@@ -29,6 +29,7 @@
       "perks": [
         "<b>Premium Recognition</b>: Prominent listing in the app with a description, avatar, and socials",
         "<b>Priority Support</b>: Get faster responses to inquiries",
+        "Direct chat support on Discord",
         "<i>All Plotlyst Plus Member Benefits</i>"
       ],
       "price": "7.5",
