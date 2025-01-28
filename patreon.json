@@ -101,70 +101,88 @@
       "description": "If possible, which genres should Plotlyst consider the most?",
       "items": {
         "Fantasy": {
-          "value": 100
+          "value": 100,
+          "icon": "fa5s.dragon"
         },
         "Sci-Fi": {
-          "value": 0
+          "value": 0,
+          "icon": "mdi.robot"
         },
         "Romance": {
-          "value": 0
+          "value": 0,
+          "icon": "ei.heart"
         },
         "Mystery": {
-          "value": 0
+          "value": 0,
+          "icon": "mdi.incognito"
         },
         "Action or Adventure": {
-          "value": 0
+          "value": 0,
+          "icon": "fa5s.running"
         },
         "Thriller/Suspense": {
-          "value": 0
+          "value": 0,
+          "icon": "ri.knife-blood-line"
         },
         "Horror": {
-          "value": 0
-        },
-        "Paranormal": {
-          "value": 0
+          "value": 0,
+          "icon": "ri.ghost-2-line"
         },
         "Crime": {
-          "value": 0
+          "value": 0,
+          "icon": "mdi.pistol"
         },
         "Coming of Age": {
-          "value": 0
+          "value": 0,
+          "icon": "ri.seedling-line"
         },
         "Cozy": {
-          "value": 0
+          "value": 0,
+          "icon": "ri.home-heart-line"
         },
         "Historical Fiction": {
-          "value": 0
+          "value": 0,
+          "icon": "fa5s.hourglass-end"
         },
         "War": {
-          "value": 0
+          "value": 0,
+          "icon": "fa5s.skull"
         },
         "Western": {
-          "value": 0
+          "value": 0,
+          "icon": "fa5s.hat-cowboy"
         },
         "Upmarket": {
-          "value": 0
+          "value": 0,
+          "icon": "ph.pen-nib"
         },
         "Literary Fiction": {
-          "value": 0
+          "value": 0,
+          "icon": "ri.quill-pen-line"
         },
         "Society": {
-          "value": 0
+          "value": 0,
+          "icon": "mdi6.account-group"
         },
         "Memoir": {
-          "value": 0
+          "value": 0,
+          "icon": "mdi6.mirror-variant"
         },
         "Children's Books": {
-          "value": 0
+          "value": 0,
+          "icon": "mdi6.teddy-bear"
         },
         "Slice of Life": {
-          "value": 0
+          "value": 0,
+          "icon": "fa5s.apple-alt"
         },
         "Comedy": {
-          "value": 0
+          "value": 0,
+          "icon": "fa5.laugh-beam"
         },
         "Contemporary": {
-          "value": 0
+          "value": 0,
+          "icon": "fa5s.mobile-alt"
         }
       }
     },
