@@ -2,10 +2,23 @@
   "patrons": [
     {
       "name": "Zsolt",
-      "description": "Fantasy Writer | Developer of Plotlyst",
+      "icon": "fa5s.gem",
+      "bio": "Fantasy Writer | Developer of Plotlyst",
       "web": "https://plotlyst.com/",
       "genre": "fantasy",
-      "vip": true
+      "vip": true,
+      "socials": {
+        "ig": "https://instagram.com/plotlyst",
+        "threads": "https://threads.net/@plotlyst",
+        "patreon": "https://patreon.com/user?u=24283978"
+      },
+      "favourites": [
+        "Rebecca",
+        "The Picture of Dorian Gray",
+        "Anna Karenina",
+        "Jane Eyre",
+        "Malazan"
+      ]
     }
   ]
 }
