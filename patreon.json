@@ -132,6 +132,10 @@
           "value": 0,
           "icon": "mdi.pistol"
         },
+        "Caper": {
+          "value": 0,
+          "icon": "mdi.robber"
+        },
         "Coming of Age": {
           "value": 0,
           "icon": "ri.seedling-line"
