@@ -88,13 +88,15 @@
       "name": "SpaceCowboy",
       "bio": "",
       "web": "",
-      "genre": ""
+      "genre": "",
+      "profession": "editor"
     },
     {
       "name": "Chris",
       "bio": "",
       "web": "",
-      "genre": ""
+      "genre": "",
+      "profession": "artist"
     },
     {
       "name": "KnightRider21",
@@ -112,19 +114,22 @@
       "name": "BookWorm",
       "bio": "",
       "web": "",
-      "genre": ""
+      "genre": "",
+      "profession": "content"
     },
     {
       "name": "Stella",
       "bio": "",
       "web": "",
-      "genre": ""
+      "genre": "",
+      "profession": "editor"
     },
     {
       "name": "GamerGuy",
       "bio": "",
       "web": "",
-      "genre": ""
+      "genre": "",
+      "profession": "artist"
     },
     {
       "name": "Taylor",
