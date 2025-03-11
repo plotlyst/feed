@@ -13,6 +13,118 @@
   ],
   "tasks": [
     {
+      "title": "Custom story structure templates",
+      "status_ref": "cfa85d26-524c-4364-b089-691000094b52",
+      "summary": "Allow the creation of custom story structure templates",
+      "icon": "mdi6.bridge",
+      "tags": [
+        "structure"
+      ],
+      "web_link": "https://plotlyst.com/docs/structure/",
+      "version": "Free"
+    },
+    {
+      "title": "3-act structure variations",
+      "status_ref": "cfa85d26-524c-4364-b089-691000094b52",
+      "summary": "Provide 3-act structure template with variations",
+      "icon": "ph.number-circle-three-light",
+      "tags": [
+        "structure"
+      ],
+      "web_link": "https://plotlyst.com/docs/structure/",
+      "version": "Free"
+    },
+    {
+      "title": "Story structure templates",
+      "status_ref": "cfa85d26-524c-4364-b089-691000094b52",
+      "summary": "Common story structure templates",
+      "icon": "mdi6.bridge",
+      "tags": [
+        "structure"
+      ],
+      "web_link": "https://plotlyst.com/docs/structure/",
+      "version": "Free"
+    },
+    {
+      "title": "Storyline relationship dynamics",
+      "status_ref": "dcce7399-a45c-4ff4-a699-03fd01e3cb08",
+      "summary": "Plan out relationship dynamics per storylines",
+      "icon": "fa5s.people-arrows",
+      "tags": [
+        "storylines"
+      ],
+      "web_link": "",
+      "version": "Plus"
+    },
+    {
+      "title": "Scene-storyline grid editor",
+      "status_ref": "cfa85d26-524c-4364-b089-691000094b52",
+      "summary": "Manage multiple scene-storyline associations in a grid layout",
+      "icon": "mdi6.timeline",
+      "tags": [
+        "scene", "storylines"
+      ],
+      "web_link": "https://plotlyst.com/docs/scenes/",
+      "version": "Plus"
+    },
+    {
+      "title": "Storymap",
+      "status_ref": "cfa85d26-524c-4364-b089-691000094b52",
+      "summary": "Link storylines to scenes and visualize their occurrence",
+      "icon": "mdi.transit-connection-horizontal",
+      "tags": [
+        "scene", "storylines"
+      ],
+      "web_link": "https://plotlyst.com/docs/scenes/",
+      "version": "Plus"
+    },
+    {
+      "title": "Scene and storyline progression tracking and visualization",
+      "status_ref": "cfa85d26-524c-4364-b089-691000094b52",
+      "summary": "Track scene and storyline progression",
+      "icon": "mdi.chevron-double-up",
+      "tags": [
+        "scene",
+        "storylines"
+      ],
+      "web_link": "https://plotlyst.com/docs/scenes/",
+      "version": "Plus"
+    },
+    {
+      "title": "Storylines",
+      "status_ref": "cfa85d26-524c-4364-b089-691000094b52",
+      "summary": "Manage storylines for plot, subplots, character arcs, and relationship plots",
+      "icon": "fa5s.theater-masks",
+      "tags": [
+        "storylines"
+      ],
+      "web_link": "https://plotlyst.com/docs/storylines/",
+      "version": "Plus"
+    },
+    {
+      "title": "Attach locations to scenes",
+      "status_ref": "dcce7399-a45c-4ff4-a699-03fd01e3cb08",
+      "summary": "Attach locations to scenes. Display scene-location distribution, similarly to characters.",
+      "icon": "fa5s.map-pin",
+      "tags": [
+        "milieu",
+        "scene"
+      ],
+      "web_link": "https://plotlyst.featurebase.app/p/attach-locations-to-scenes",
+      "version": "Plus"
+    },
+    {
+      "title": "Location editor",
+      "status_ref": "cfa85d26-524c-4364-b089-691000094b52",
+      "summary": "Create and manage locations",
+      "icon": "mdi.globe-model",
+      "tags": [
+        "milieu"
+      ],
+      "web_link": "https://plotlyst.com/docs/world-building/",
+      "version": "Plus"
+    },
+    {
       "title": "Character network",
       "status_ref": "cfa85d26-524c-4364-b089-691000094b52",
       "summary": "Visualize a relationship network between your characters",
@@ -86,13 +198,18 @@
       "icon_color": "#4B0763"
     },
     "scene": {
-      "text": "Scene related tasks",
+      "text": "Narrative manager related tasks",
       "icon": "mdi.movie-open",
       "icon_color": "#4B0763"
     },
     "structure": {
       "text": "Story structure related tasks",
       "icon": "mdi6.bridge",
+      "icon_color": "#4B0763"
+    },
+    "storylines": {
+      "text": "Storylines related tasks",
+      "icon": "fa5s.theater-masks",
       "icon_color": "#4B0763"
     },
     "milieu": {
